@@ -1,4 +1,8 @@
-# pxt-color
+# Extra additions
+## new palette(s)
+* RedScale: Monochrome red (GreyScale but red instead of white).
+
+# Original pxt-color read-me
 
 ## set palette
 
