@@ -1,8 +1,3 @@
-# Stuff added
-## Custom palettes
-
-* Red: Kinda like grey-scale but instead of white it's red.
-
 # pxt-color
 
 ## set palette

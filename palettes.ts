@@ -255,7 +255,7 @@ namespace color {
     `);
 
     //% fixedInstance whenUsed block="red"
-    export const Red = bufferToPalette(hex`
+    export const RedScale = bufferToPalette(hex`
         000000
         FF0000
         ED0000
